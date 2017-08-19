@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SharedPreference</string>
+    <string name="username">Kullanıcı Adı:</string>
+    <string name="rememberusername">Kullanıcı Adını Hatırla !</string>
 </resources>
